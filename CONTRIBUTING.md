@@ -1,3 +1,5 @@
+These are the guidelines to contribute to a project by me (David Brown). Feel free to reference these instructions on your projects.
+
 ###Contributing
 
 * Fork the repository.
