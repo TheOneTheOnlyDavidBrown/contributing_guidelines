@@ -1,6 +1,6 @@
-These are the guidelines to contribute to a project by me (David Brown). Feel free to reference these instructions on your projects.
+These are the guidelines to contribute to a project by me ([David Brown](http://davidcbrown.io)). Feel free to reference these instructions on your projects.
 
-###Contributing
+### Contributing
 
 * Fork the repository.
 * Create a feature branch with an appropriate name. (`git checkout -b cool-new-feature`)
